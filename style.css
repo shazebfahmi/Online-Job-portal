@@ -1,0 +1,125 @@
+#main-wrapper{
+	width:500px;
+	margin: 0 auto;
+	background:white;
+	padding: 5px;
+	border-radius:10px;
+	border: 2px  solid 3A4045
+}
+
+.imageppt{
+	width:150px;
+	height:150px;
+	text-align:center;
+	border-radius:80%
+}
+
+.myform{
+	border-radius:10px;
+	border: 2px  solid #3A4045;
+	background-color:#92D1FF;
+	width:500px;
+	margin:0 auto
+
+}
+
+.inputvalues{
+	align:center;
+	width:70%;
+	margin:0 auto;
+	padding:5px
+}
+
+#loginbtn{
+	margin-top:10px;
+	margin:0 auto;
+	background-color:#3C31FF;
+	width:100%;
+	padding:5px;
+	color:white;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:10px;
+	border: 1px  solid #3A4045
+}
+
+#registerbtn{
+	margin-top:10px;
+	margin-bottom:200px;
+	margin:0 auto;
+	background-color:#F3F713;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border: 1px  solid 3A4045
+}
+
+#signupbtn{
+	border-radius:10px;
+	border: 2px  solid #3A4045;
+	margin-top:10px;
+	margin:0 auto;
+	background-color:#3C31FF;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border: 1px  solid 3A4045
+}
+
+#signupbtn2{
+	border-radius:5px;
+	border: 2px  solid #3A4045;
+	margin-top:10px;
+	margin:0 auto;
+	background-color:#88BFE7;
+	padding:3px;
+	width:30%;
+	text-align:center;
+	font-size:14px;
+	border: 1px  solid 3A4045
+}
+
+
+
+
+#backbtn{
+	border-radius:3px;
+	margin-top:10px;
+	margin:0 auto;
+	background-color:#1C6092;
+	padding:5px;
+	color:white;
+	width:30%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border: 1px  solid 3A4045
+}
+
+#logoutbtn{
+	margin-top:10px;
+	margin:0 auto;
+	background-color:#238707;
+	padding:5px;
+	color:white;
+	width:100%;
+	text-align:center;
+	font-size:18px;
+	font-weight:bold;
+	border: 1px  solid 3A4045
+}
+#fontcolor {
+ color:#ffaa00;
+}
+
+.row .main .namestyle
+{
+	
+}
